@@ -5,15 +5,7 @@ Bienvenido a tu repositorio de práctica. Aquí aprenderás a usar Git, GitHub y
 
 ## 🎯 Objetivos
 
-Este repositorio te permite practicar:
-- ✅ Clonar repositorios
-- ✅ Hacer commits y push
-- ✅ Crear y gestionar branches
-- ✅ Trabajar con Issues
-- ✅ Crear Pull Requests
-- ✅ Revisar código
-- ✅ Usar GitHub Codespaces
-- ✅ Probar autograding
+Se me escapó el suprimir
 
 ## 📁 Estructura del Repositorio
 
@@ -64,6 +56,7 @@ Ve a [INSTRUCCIONES.md](./INSTRUCCIONES.md) para seguir los ejercicios paso a pa
 Agrega tu nombre aquí cuando completes el Ejercicio 1:
 
 - [ ] Víctor Ceballos Muñoz
+- [ ] Patricio Balboa P.
 
 ## 🧪 Tests Automáticos
 
